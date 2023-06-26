@@ -7,7 +7,7 @@
 
 ```bash
  chmod +x start_ec2.sh
-```bash
+```
 
 # Run the Shell Script
 . To start the EC2 instance, run the shell script by executing the following command in the terminal:
