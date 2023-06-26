@@ -6,11 +6,7 @@ Create a new shell script file with a .sh extension, for example, start_ec2.sh. 
 Step3: Save and Make the Script Executable Save the shell script file and make it executable by running the following command in the terminal.
 ```bash
 chmod +x start_ec2.sh
-```bash
-
 Step4: Run the Shell Script
 To start the EC2 instance, run the shell script by executing the following command in the terminal:
-
-```bash
 ./start_ec2.sh
 ```bash
