@@ -14,4 +14,4 @@ To start the EC2 instance, run the shell script by executing the following comma
 
 ```bash
 ./start_ec2.sh
-```bash
+```
